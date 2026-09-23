@@ -12,5 +12,5 @@ selecting the related pre-trained model
 run python test.py
 
 ## Data split and random seeds
-- **Split**: 40 scenes for training / 24 scenes for testing, following Erba et al. (JOSA A, 2024).
+- **Split**: 40 scenes for training / 24 scenes for testing.
 - **Random seeds**: 666, 100, 200, 300, 400, 500.

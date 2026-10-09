@@ -13,4 +13,4 @@ run python test.py
 
 ## Data split and random seeds
 - **Split**: 40 scenes for training / 24 scenes for testing.
-- **Random seeds**: 666, 100, 200, 300, 400, 500.
+- **Random seeds**: 666, 100, 200, 300, 400, 0.
